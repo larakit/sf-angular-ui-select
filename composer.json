@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-ui-select",
+    "description": "[Larakit] [staticfiles] sf-angular-ui-select",
+    "version": "1.0.0",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
