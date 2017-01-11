@@ -5,4 +5,4 @@
     ->setSourceDir('public')
     ->ngModule('ui.select')
     ->jsPackage('select.js')
-    ->jsPackage('select.css');
+    ->cssPackage('select.css');
