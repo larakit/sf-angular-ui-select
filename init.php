@@ -5,3 +5,4 @@
     ->setSourceDir('public')
     ->jsPackage('select.js')
     ->cssPackage('select.css');
+\Larakit\LkNgModule::register('ui.select');
